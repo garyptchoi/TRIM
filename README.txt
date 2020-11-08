@@ -9,7 +9,7 @@ If you use this code in your own work, please cite the following paper:
     Journal of Visual Communication and Image Representation, 55, pp. 561-571, 2018.
 
 Copyright (c) 2016-2018, Gary Pui-Tung Choi
-https://scholar.harvard.edu/choi
+https://math.mit.edu/~ptchoi
 
 ===============================================================
 
