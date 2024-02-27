@@ -14,9 +14,9 @@ If you use this code in your own work, please cite the following paper:
     "[Efficient feature-based image registration by mapping sparsified surfaces.](https://doi.org/10.1016/j.jvcir.2018.07.005)"
     Journal of Visual Communication and Image Representation, 55, pp. 561-571, 2018.
 
-Copyright (c) 2016-2018, Gary Pui-Tung Choi
+Copyright (c) 2016-2014, Gary Pui-Tung Choi
 
-https://math.mit.edu/~ptchoi
+https://www.math.cuhk.edu.hk/~ptchoi
 
 ===============================================================
 
